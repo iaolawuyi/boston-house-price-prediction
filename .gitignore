@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Model files
+saved_models/
+*.h5
+*.keras
+
+# Graphs, logs, and outputs
+*.jpg
+*.png
+*.log
+logs/
+
+# Environment files
+.env
+*.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Dependency files
+pip-log.txt
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Misc
+*.swp
